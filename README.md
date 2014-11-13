@@ -1,0 +1,4 @@
+libft
+=====
+
+Start libft
