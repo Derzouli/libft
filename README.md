@@ -3,6 +3,6 @@
 ## Start libft
 
 Have to update it !!!
--Create Source repository with a new Makefile.
--Review itoa.
+1.Create Source repository with a new Makefile.
+2.Review itoa.
 
